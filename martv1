@@ -42,6 +42,19 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="http://i.imgur.com/09y8PS0.png" group-title="Canales Chilenos", TVR | HD
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 
+#EXTINF:-1,CINEMAX
+https://pico11.pedromo.me/live/cinemax/index.m3u8?token=XCJvBYFj_ccd1yGc3vYWOg&expires=1590037963
+
+#EXTINF:-1,TNT
+https://pico13.pedromo.me/live/tntlatino/index.m3u8?token=XcvxmrhAp2UOVxUnFr6vdQ&expires=1590038328
+
+#EXTINF:-1,FOX
+https://petopa151.caraponi.me/live/foxlatino/index.m3u8?token=ZydbpSWctx6iWHIWshkh3w&expires=1590038640
+
+#EXTINF:-1
+
+
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/IU9Fc8P.png" group-title="Canales de Animacion", Boing | HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
