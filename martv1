@@ -81,17 +81,13 @@ https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1,CINECANAL
-https://edge3-hr.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating_FTA/CinecanalHD-video=1972000.m3u8
-
 #EXTINF:-1,AXN
-https://edge3-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD-video=1344000.m3u8
+https://edge3-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD-video=678000.m3u8
 
 #EXTINF:-1,WARNER TV
-https://edge3-hr.cvattv.com.ar/live/live/WarnerHD/verimatrix_rotating_FTA/WarnerHD-video=1040000.m3u8
 
 #EXTINF:-1,SPACE
-https://edge3-hr.cvattv.com.ar/live/c3eds/Space/verimatrix_rotating_FTA/Space-video=1480000.m3u8
+
 
 
 
