@@ -52,7 +52,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Pantalla Clasica
 https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 ,#EXTINF:-1 - M2O TV 
+#EXTINF:-1 ,M2O TV 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-omQS0__XP3Y/XpaPAIUgKUI/AAAAAAAAx44/0NeiqUb_LHk4-Sffm0h1XASJZA9B3DRLwCK8BGAsYHg/s0/2020-04-14.png", Rewind TV
@@ -82,7 +82,7 @@ https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1,AXN
-https://edge3-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD-audio_AACL_spa_144800_53=144800-42506751.ts
+https://edge3-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD-audio_AACL_spa_144800_53=144800.m3u8
 https://edge3-hr.cvattv.com.ar/live/live/AXNHD/verimatrix_rotating_FTA/AXNHD-video=678000.m3u8
 
 #EXTINF:-1,WARNER TV
