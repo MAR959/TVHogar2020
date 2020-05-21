@@ -1,7 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1, MEGA
-https://cl-a2-i-e-cl1.cdn.mdstrm.com/live-stream-secure/53d2c1a32640614e62a0e000/publish/media_1200.m3u8?uid=rjyem8kFadCdQL6sxmvHYU68pJ3PqphF&sid=SXP0oUsNGSzd2utjqkWezte5ebNFkTcM&pid=V9VxRop7BdixxAn7Wn76iHyW83KXkAZN&ref=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F&dnt=true&access_token=fA4VQkFkYmMYWd1MDLfCnqGalVQCqJ15TMZ1SCzL4nC6lOg1418Mo2A6Ge65E5iFxJcwB6UfLKi&es=cl-a2-i-e-cl1.cdn.mdstrm.com&ote=1590117920632&ot=TAuVu7McGZUdoFEc6GGqSQ&proto=https&pz=cl
 
 #EXTINF:-1,LA RED
 
@@ -26,7 +25,7 @@ https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FwfPdIwD8xY/Xeu4hqeN8qI/AAAAAAAAuOw/58iAWVDX8jUymVabkx325XF_TKrk-cY6QCK8BGAsYHg/s512/2019-12-07.jpg", CNN Chile
 https://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-McxFICDN8qI/XNoLBPqtDxI/AAAAAAAAodw/hVi_SG4nkwwFSSFjsWFJtItPFRNn8cy4gCK8BGAs/s0/2019-05-13.png", Mega Plus
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-McxFICDN8qI/XNoLBPqtDxI/AAAAAAAAodw/hVi_SG4nkwwFSSFjsWFJtItPFRNn8cy4gCK8BGAs/s0/2019-05-13.png", Mega PLUS
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png", Meganoticias
@@ -48,6 +47,9 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 ,#EXTINF:-1 - M2O TV 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-omQS0__XP3Y/XpaPAIUgKUI/AAAAAAAAx44/0NeiqUb_LHk4-Sffm0h1XASJZA9B3DRLwCK8BGAsYHg/s0/2020-04-14.png", Rewind TV
+https://5cf4a2c2512a2.streamlock.net:443/rewintv/rewintv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/09y8PS0.png" group-title="Canales Chilenos", TVR | HD
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
