@@ -81,14 +81,14 @@ https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1,CINEMAX
-https://pico11.pedromo.me/live/cinemax/index.m3u8?token=XCJvBYFj_ccd1yGc3vYWOg&expires=1590037963
+#EXTINF:-1,CINECANAL
+https://edge3-hr.cvattv.com.ar/live/c3eds/CinecanalHD/verimatrix_rotating_FTA/CinecanalHD-video=1972000.m3u8
 
 #EXTINF:-1,TNT
-https://pico13.pedromo.me/live/tntlatino/index.m3u8?token=XcvxmrhAp2UOVxUnFr6vdQ&expires=1590038328
+
 
 #EXTINF:-1,FOX
-https://petopa151.caraponi.me/live/foxlatino/index.m3u8?token=ZydbpSWctx6iWHIWshkh3w&expires=1590038640
+
 
 #EXTINF:-1
 
