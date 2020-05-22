@@ -51,11 +51,10 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-i-375eTKqes/XpNWzPuDpNI/AAAAAAAAx08/lxL3eQusm0QPX5p69ThSfLxHinfw6m5mwCK8BGAsYHg/s0/2020-04-12.jpg", Mi TV Televisión Clásica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Pantalla Clasica
+#EXTINF:-1 , Pantalla Clasica
 https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Next TV
-http://198.1.117.5:1935/live/livestream/.m3u8
+
 
 #EXTINF:-1 ,M2O TV 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
@@ -126,7 +125,7 @@ https://livestartover.atresmedia.com/a3internacional/bitrate_4.m3u8?PlaylistM3UC
 #EXTINF:-1 ,LA CUATRO HD 
 http://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 
-#EXTINF:-1 ,#EXTINF:-1 - TELECINCO ESPAÑA 
+#EXTINF:-1 ,TELECINCO ESPAÑA 
 http://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 
 #EXTINF:-1 ,DIVINITY 
@@ -155,9 +154,10 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Next TV
+http://198.1.117.5:1935/live/livestream/.m3u8
 
-
-#EXTINF:-1 ,#EXTINF:-1 - TELEMAX 
+#EXTINF:-1 ,TELEMAX 
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="Argentina",Canal 26
