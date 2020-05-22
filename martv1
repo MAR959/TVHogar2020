@@ -1,10 +1,6 @@
 #EXTM3U
 
- #EXTINF:-1,cinemax
- https://pico13.pedromo.me/live/cinemax/index.m3u8?token=bSJXwBzKrBJ-usvmUAjZ4A&expires=1590205734.m3u8
-
 #EXTINF:-1, MEGA
-
 
 #EXTINF:-1,LA RED
 
@@ -92,7 +88,7 @@ https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
 https://59dc4c699f574.streamlock.net:443/wowtv/wowtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-b6sKIkks1_U/XpoabBb1kBI/AAAAAAAAx90/6kTvejQeT-wbE1snp1bOWTjrqZ_MXTnKACK8BGAsYHg/s0/2020-04-17.png", Retro TV
+#EXTINF:-1 , Retro TV
 https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?PlaylistM3UCL
 
 
