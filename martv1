@@ -53,6 +53,9 @@ https://usb.bozztv.com/ssh101/pantallaclasica02/pantallaclasica02/playlist.m3u8?
 
 
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 ,M2O TV 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
 
