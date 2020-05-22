@@ -155,9 +155,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="Argentina",Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w38685927_b1264000_sleng.m3u8
 
-#EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="Argentina",Music TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
-
 #EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="Argentina",NET TV
 https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
@@ -173,29 +170,15 @@ https://vipottbpkstream.vip.hr/Content/a1-hls-vmx/Live/Channel(A1_Now_HD)/index.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PFcB2hx.png" group-title="GERMANY",Allgau TV
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/1200px-ARD_alpha.svg.png" group-title="GERMANY",ARD-alpha
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExwbjFn.png" group-title="GERMANY",Baden TV (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExwbjFn.png" group-title="GERMANY",Baden TV
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ExwbjFn.png" group-title="GERMANY",Baden TV (Opt-2)
-https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DezlOqt.png" group-title="GERMANY",BLK TV Hohenmölsen
 http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/BR_Dachmarke.svg/1200px-BR_Dachmarke.svg.png" group-title="GERMANY",BR Worldwide
-https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_3776_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/BR_Dachmarke.svg/1200px-BR_Dachmarke.svg.png" group-title="GERMANY",BR Sued
-http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7wABSuo.png" group-title="GERMANY",Das Erste
 https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rR44kv4.png" group-title="GERMANY",DASDING 90.8 FM Stuttgart
-http://swrdasding-lh.akamaihd.net/i/dasdingvisual_live@6416/index_1800_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="GERMANY",Deutsche Welle
 http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
@@ -208,31 +191,6 @@ http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w11465644
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/2f/ERF_1_Logo_2011.png" group-title="GERMANY",ERF 1
 https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/chunklist_b18848000_slde.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VenSjan.png" group-title="GERMANY",Erz-TV Stollberg
-http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="GERMANY",Filstalwelle
-http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png" group-title="GERMANY",Franken Fernsehen
-http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="GERMANY",Friesischer Rundfunk
-http://58e5fdd27293a.streamlock.net:1935/friesischerRundfunk-live/_definst_/mp4:friesischerrundfunk/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/1200px-H1-logo.svg.png" group-title="GERMANY",H1
-http://livestream.htp.tv/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/intv.png" group-title="GERMANY",INTV
-https://586c13b083c0d.streamlock.net/ingolstadttv/ingolstadttv.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Isar_TV.png" group-title="GERMANY",Isar TV
-http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/28PB10o.png" group-title="GERMANY",KabelJournal
-http://62.67.13.53:1935/kabeljournal/live.stream/playlist.m3u8
-
 
 
 
@@ -290,12 +248,6 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24 (Opt-1)
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (Opt-1)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (HD)
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iYalq6I.png" group-title="FRANCE",Gong Max
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
