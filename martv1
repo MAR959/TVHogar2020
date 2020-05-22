@@ -1,6 +1,7 @@
 #EXTM3U
 
- #EXTINF:-1,
+ #EXTINF:-1,cinemax
+ https://pico13.pedromo.me/live/cinemax/index.m3u8?token=bSJXwBzKrBJ-usvmUAjZ4A&expires=1590205734.m3u8
 
 #EXTINF:-1, MEGA
 https://cl-a2-i-e-cl1.cdn.mdstrm.com/live-stream-secure/53d2c1a32640614e62a0e000/publish/media_1200.m3u8?uid=rjyem8kFadCdQL6sxmvHYU68pJ3PqphF&sid=8ucqaikalTBTQEvl5qZZ2wIVbR4gP09o&pid=8yAzmrP6NFpY4hWBfgWC2vpvhuEFNv8L&ref=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F&dnt=true&access_token=mRQwePEElAQyWsucusAalgCFEs9z32Jcx5YOwPZKZKXqfPMBtT94CCDPInUl177MyGDPS1ifQDW&es=cl-a2-i-e-cl1.cdn.mdstrm.com&ote=1590203711575&ot=13PgGduo_50AnMyeUhhTJw&proto=https&pz=cl.m3u8
