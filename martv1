@@ -1,9 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1, MEGA
+#EXTINF:-1,
+
+#EXTINF:-1,TELELEONTINA
+https://usb.bozztv.com/ssh101/teleleontina/teleleontina/playlist.m3u8
+
+JBN Nicaragua
+https://usb.bozztv.com/ssh101/JBNNI/JBNNI/playlist.m3u8
+
+#EXTINF:-1,SERIES R
+https://usb.bozztv.com/ssh101/seriesraza2/seriesraza2/playlist.m3u8
+
+#EXTINF:-1,BOMCHANNEL
+https://usb.bozztv.com/ssh101/BomChannel/BomChannel/playlist.m3u8
 
 #EXTINF:-1,UNISONTV
-https://usb.bozztv.com/ssh101/Canal8Unisontv/Canal8Unisontv/chunklist.m3u8?nimblesessionid=34179252
+https://usb.bozztv.com/ssh101/Canal8Unisontv/Canal8Unisontv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png", TV+
 https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
