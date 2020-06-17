@@ -1,9 +1,10 @@
 #EXTM3U
 
-
+#EXTINF:-1,El CalbucanoTV
+https://593b04c4c5670.streamlock.net/8198/8198/chunklist_w642392268.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png", TV+
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s2F77tITdTc/Xndeb0SmfQI/AAAAAAAAxEM/uY-UEbKGHpgvOXK9CyrLOpXHu6GrPsXfQCK8BGAsYHg/s0/2020-03-22.png", UCV 3
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
