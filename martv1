@@ -42,6 +42,9 @@ http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cappissimamultimedial.cl/radio/wp-content/themes/cappissima/images/logo-cappissima.png" group-title="CHILE",Multimedia Cappissima TV
 http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
+https://59dc4c699f574.streamlock.net:443/wowtv/wowtv/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-logo="http://revistacorrientes.com/wp-content/uploads/2015/09/2vwy3yo-RCN-Televisi%C3%B3n.png" group-title="COLOMBIA", RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
@@ -70,16 +73,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png", Rec Online
 https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1,TELELEONTINA
-https://usb.bozztv.com/ssh101/teleleontina/teleleontina/playlist.m3u8
-
-#EXTINF:-1,BOMCHANNEL
-https://usb.bozztv.com/ssh101/BomChannel/BomChannel/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2Pr5sAUtsTA/XkCTD7gYTyI/AAAAAAAAv8M/B9-Cs05PoO4uTYRUW4INkQhkH1NkuQQWACK8BGAsYHg/s0/2020-02-09.png", TOP Latino TV
-https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 ,M2O TV 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
 
@@ -95,14 +88,6 @@ https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/main-logo.png", TVU
 https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
 
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
-https://59dc4c699f574.streamlock.net:443/wowtv/wowtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 , Retro TV
-https://usb.bozztv.com/ssh101/RETROPALMARES07/RETROPALMARES07/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
