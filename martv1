@@ -4,7 +4,7 @@
 https://593b04c4c5670.streamlock.net/8198/8198/chunklist_w642392268.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png", TV+
-https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8
+https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s2F77tITdTc/Xndeb0SmfQI/AAAAAAAAxEM/uY-UEbKGHpgvOXK9CyrLOpXHu6GrPsXfQCK8BGAsYHg/s0/2020-03-22.png", UCV 3
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
@@ -30,6 +30,12 @@ https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="http://resource.t13.cl/img/t13-movil-b.png",  T13 Móvil
 https://t13-movil-live.cdn.nedmedia.io/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-h8o2u7q5Uy0/XbC17VIqwsI/AAAAAAAArmI/K43pwbbfr8kOdMyWd5JqIA14olHsldGfwCK8BGAsYHg/s0/2019-10-23.png",   Canal 2 Quellón 
+http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uSEbJ_o0QlY/Wn9mgCZRMnI/AAAAAAAAgww/FemZGM5N_GQI7T4IgYhq3zTDPbhl_tfpQCK8BGAs/s302/2018-02-10.png",   ITV Patagonia 
+https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-7tIiKDhWwCw/XpZ6UNxwffI/AAAAAAAAx30/rt3kTnIPMSMZ_1epd9_vUGUlaFTPrLtMACK8BGAsYHg/s0/2020-04-14.png", TALTAL TV HD Peliculas
 https://usb.bozztv.com/ssh101/taltaltv/taltaltv/playlist.m3u8?PlaylistM3UCL
 
@@ -42,8 +48,8 @@ http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1,SERIES R
 https://usb.bozztv.com/ssh101/seriesraza2/seriesraza2/playlist.m3u8
 
-#EXTINF:-1,UNISONTV
-https://usb.bozztv.com/ssh101/Canal8Unisontv/Canal8Unisontv/playlist.m3u8
+#EXTINF:-1,MFMusic
+https://usb.bozztv.com/ssh101/mfmusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
@@ -76,11 +82,7 @@ https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/main-logo.png", TVU
 https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-h8o2u7q5Uy0/XbC17VIqwsI/AAAAAAAArmI/K43pwbbfr8kOdMyWd5JqIA14olHsldGfwCK8BGAsYHg/s0/2019-10-23.png",   Canal 2 Quellón 
-http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uSEbJ_o0QlY/Wn9mgCZRMnI/AAAAAAAAgww/FemZGM5N_GQI7T4IgYhq3zTDPbhl_tfpQCK8BGAs/s302/2018-02-10.png",   ITV Patagonia 
-https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
