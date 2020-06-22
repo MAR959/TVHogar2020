@@ -29,6 +29,9 @@ https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s2F77tITdTc/Xndeb0SmfQI/AAAAAAAAxEM/uY-UEbKGHpgvOXK9CyrLOpXHu6GrPsXfQCK8BGAsYHg/s0/2020-03-22.png", UCV 3
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/1200px-DM_LOGO_RGB.svg.png" group-title="Latinos",Discovery Max
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
+
 #EXTINF:-1,El CalbucanoTV
 https://593b04c4c5670.streamlock.net/8198/8198/chunklist_w642392268.m3u8
 
@@ -51,6 +54,15 @@ https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 #EXTINF:-1,TV Caracol
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VPxJjwNBStc/Xbw7JJIYWPI/AAAAAAAAolc/PjFs2XIGsIYShzw_d8tTjQy12pchHkeVwCLcBGAsYHQ/s200/Caribe%2BTeve%252C%2B%2BLa%2BVega%2B%2528RD%2529.png" group-title="Latinos",Caribe Teve (RD)
+http://caribeteve.ddns.net:1935/caribeteve/caribeteve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/hispantv.png" group-title="Latinos",HispanTV (Irán)
+https://live.hispantv.com/live/smil:live.smil/playlist.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
@@ -58,11 +70,35 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="PeliculasTV",ACS Network
+https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="PeliculasTV",Zee mundo
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CINE%2B_-_LOGO.png/800px-CINE%2B_-_LOGO.png" group-title=".RD", Cineplus
+http://gmsiptv.ddns.net:8080/hls/cineplus.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png", Rec Online
 https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="California Music Channel" tvg-logo="https://graph.facebook.com/CaliforniaMusicChannel/picture?width=320&height=320" group-title="Music",California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HqM Pop" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/pop-1080-1024x614.png" group-title="Music",HqM Pop
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+
+#EXTINF:-1 tvg-name="HqM Jazz" tvg-logo="https://hqm.es/wp-content/uploads/2019/11/jazz-1080-1024x614.png" group-title="Music",HqM Jazz
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/master.m3u8
 
 #EXTINF:-1 ,M2O TV 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
@@ -76,7 +112,14 @@ https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,Travel TV HD 
 http://194.179.53.124:1935/live/traveltv/playlist.m3u8
 
+#EXTINF:-1 radio="true" tvg-logo="https://canalonce.mx/generales/wp-content/uploads/2019/04/logo_sobre_canal_once.png" group-title="México",Once Internacional (México)
+https://live2.canaloncelive.tv/livepkgr2/internacional.smil/chunklist_w1432222924_b1000000_slesp.m3u8
 
+#EXTINF:-1 tvg-logo="https://imagenesnoticias.canalrcn.com/ImgNoticias/styles/530xauto/s3/noticias/ntn24.jpg" group-title="Latinos",NTN24 (Colombia)
+https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4fTAMMvrofI/WtOf7D-zT4I/AAAAAAAAeRU/4AsiXPcfIqAQVfwxLg3sH_J4Sh_IcDO9wCLcBGAs/s200/Telemicro.png" group-title=".RD",Telemicro (RD)
+http://51.89.152.28:80/hls/tmicro.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CAaBUIZOgpc/XbInLO0y7XI/AAAAAAAAro8/uyF1cG5j5XcZHIDofhFJT2q00gjKsTl0wCK8BGAsYHg/s0/2019-10-24.png", Telesur
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
