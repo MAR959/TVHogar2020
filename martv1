@@ -1,13 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,El CalbucanoTV
-https://593b04c4c5670.streamlock.net/8198/8198/chunklist_w642392268.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png", TV+
-https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s2F77tITdTc/Xndeb0SmfQI/AAAAAAAAxEM/uY-UEbKGHpgvOXK9CyrLOpXHu6GrPsXfQCK8BGAsYHg/s0/2020-03-22.png", UCV 3
-https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN
 https://mdstrm.com/live-stream-playlist/5aa03fe47d246901a936111c.m3u8?PlaylistM3UCL
@@ -30,16 +23,22 @@ https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="http://resource.t13.cl/img/t13-movil-b.png",  T13 Móvil
 https://t13-movil-live.cdn.nedmedia.io/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png", TV+
+https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s2F77tITdTc/Xndeb0SmfQI/AAAAAAAAxEM/uY-UEbKGHpgvOXK9CyrLOpXHu6GrPsXfQCK8BGAsYHg/s0/2020-03-22.png", UCV 3
+https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,El CalbucanoTV
+https://593b04c4c5670.streamlock.net/8198/8198/chunklist_w642392268.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-h8o2u7q5Uy0/XbC17VIqwsI/AAAAAAAArmI/K43pwbbfr8kOdMyWd5JqIA14olHsldGfwCK8BGAsYHg/s0/2019-10-23.png",   Canal 2 Quellón 
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uSEbJ_o0QlY/Wn9mgCZRMnI/AAAAAAAAgww/FemZGM5N_GQI7T4IgYhq3zTDPbhl_tfpQCK8BGAs/s302/2018-02-10.png",   ITV Patagonia 
 https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y65NQ49.png" group-title="CHILE",Maxima Movie
-http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://cappissimamultimedial.cl/radio/wp-content/themes/cappissima/images/logo-cappissima.png" group-title="CHILE",Multimedia Cappissima TV
+#EXTINF:-1 tvg-logo="http://cappissimamultimedial.cl/radio/wp-content/themes/cappissima/images/logo-cappissima.png" group-title="CHILE",Cappissima TV
 http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
@@ -52,19 +51,11 @@ https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 #EXTINF:-1,TV Caracol
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1,MFMusic
-https://usb.bozztv.com/ssh101/mfmusic/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ocro6qo.png" group-title="USA",AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png", Orbit TV
@@ -76,22 +67,11 @@ https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,M2O TV 
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-omQS0__XP3Y/XpaPAIUgKUI/AAAAAAAAx44/0NeiqUb_LHk4-Sffm0h1XASJZA9B3DRLwCK8BGAsYHg/s0/2020-04-14.png", Rewind TV
-https://5cf4a2c2512a2.streamlock.net:443/rewintv/rewintv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/09y8PS0.png" group-title="Canales Chilenos", TVR | HD
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 
-#EXTINF:-1,UTV
-https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/main-logo.png", TVU
 https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
-
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Travel TV HD 
 http://194.179.53.124:1935/live/traveltv/playlist.m3u8
@@ -134,10 +114,10 @@ http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", Next TV
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento", NexTV Panama
 http://198.1.117.5:1935/live/livestream/.m3u8
 
-#EXTINF:-1 ,TELEMAX 
+#EXTINF:-1 ,TELEMAX arg.
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="Argentina",Canal 26
@@ -148,9 +128,6 @@ https://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="Argentina",Telpin HD
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w2137420998_b1344100_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tupATym.png" group-title="GERMANY",A.TV Augsburg
-http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30dadQJ.png" group-title="GERMANY",A1 Now
 https://vipottbpkstream.vip.hr/Content/a1-hls-vmx/Live/Channel(A1_Now_HD)/index.m3u8
@@ -178,8 +155,6 @@ http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w11465644
 https://cldf-wzw-live.r53.cdn.tv1.eu/14000erf/_definst_/live/app610238466/w2371551233/live.smil/chunklist_b18848000_slde.m3u8?fluxustv.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j2dOcXw.png" group-title="NORWAY",Kanal 10 Norge
 http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
 
@@ -200,9 +175,6 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tK5ZiIU.png" group-title="FRANCE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dici.fr/sites/dici.fr/themes/dici2017/assets/img/dici-tv.png" group-title="FRANCE",Dici TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Hits
 https://www.djing.com/tv/hits.m3u8
@@ -225,9 +197,6 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iYalq6I.png" group-title="FRANCE",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yDdOr52.png" group-title="FRANCE",ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
 
@@ -243,14 +212,8 @@ http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aLEpfDP.png" group-title="RUSSIA",1 HD
-http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZG9PeT9.png" group-title="RUSSIA",86 Channel Surgut
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZG9PeT9.png" group-title="RUSSIA",C86 Surgut
 https://sitv.ru/hls/s861024.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="RUSSIA",Mir HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.bntva.ru/images/bntv/24mir.png" group-title="RUSSIA",Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
