@@ -7,6 +7,9 @@ https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s2F77tITdTc/Xndeb0SmfQI/AAAAAAAAxEM/uY-UEbKGHpgvOXK9CyrLOpXHu6GrPsXfQCK8BGAsYHg/s0/2020-03-22.png", UCV 3
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="81741" tvg-name="TV Chile" tvg-logo="https://lh3.googleusercontent.com/-tUAc1plWtjg/Xa0CQyx4E_I/AAAAAAAArgs/ET8I9WYNPSA3R5FoRn54Ok6IGA9-5ItaACK8BGAsYHg/s0/2019-10-20.png", TV Chile
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN
 https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream-dai/0b82d80cdd2b4e99921e7a7ec9581c45/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/55cdd19f-c482-4b27-821d-cd171622d3a5/2.m3u8?uid=rjyem8kFadCdQL6sxmvHYU68pJ3PqphF&sid=uwG7HPtyQsQfdNTKnaHJml63MA1syF0e&pid=2zhbILHH5jdoKtSphvRdh3bhHK2iDHsq&ref=https%3A%2F%2Ftoken.tvn.cl%2F%3Furl%3D57a498c4d7b86d600e5461cb%26ads%3Dtrue%26imagen%3D%252F%252Fstrm.tvn.cl%252Fimg%252Flogo_tvn.png%26autostart%3Dtrue%26volume%3D100%26adsvolume%3D100%26html5%3Dtrue%26relacionados%3D0%26controls%3Dtrue%26custom_pre%3D%26tk%3D%26mediastream%3Dfalse%26DFP_Pre%3Dhttps%253A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%253Fsz%253D640x480%2526iu%253D%2F317342475%2Ftvn_envivo_prerroll%2526impl%253Ds%2526gdfp_req%253D1%2526env%253Dvp%2526output%253Dxml_vast3%2526unviewed_position_start%253D1%2526url%253D%255Breferrer%255D%2526description_url%253D%255Bpage-url%255D%2526correlator%253D%255Btimestamp%255D%26DFP_Ov%3Dhttps%253A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%253Fsz%253D640x480%2526iu%253D%2F317342475%2Ftvn_envivo_overlay%2526impl%253Ds%2526gdfp_req%253D1%2526env%253Dvp%2526output%253Dxml_vast3%2526unviewed_position_start%253D1%2526url%253D%255Breferrer_url%255D%2526description_url%253D%255Bdescription_url%255D%2526correlator%253D%255Btimestamp%255D&dnt=true&access_token=LI5cKpJ7I6wSh7ekMJjknspOHxVsiw5tV1RNAyrQDTdJr5hClv5f25Kx6FajV4gVjslLQGXfsz5&es=cl-a2-i-e-cl1.cdn.mdstrm.com&ote=1593922179351&ot=A1L5gGcNiZNWkEK0TAc93w&proto=https&pz=cl
 
@@ -35,11 +38,20 @@ https://t13-movil-live.cdn.nedmedia.io/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/1200px-DM_LOGO_RGB.svg.png" group-title="Latinos",Discovery Max
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
+#EXTINF:-1 tvg-id="97666" tvg-name="Canal Latino 54" tvg-logo="https://lh3.googleusercontent.com/-gBbkRnIisag/XmPPRUnANTI/AAAAAAAAwpc/01jp-ZrMDeYwbf4ahDeKu7kayyMQ_VuUgCK8BGAsYHg/s0/2020-03-07.png", Canal Latino 54
+http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="76271" tvg-name="Canal 10 ARTV" tvg-logo="https://lh3.googleusercontent.com/-osoDd4sx09s/XUIeRlfi0tI/AAAAAAAAqAE/YZ6Z8IrPlu0Lhq3dCWew1uls3PUV5M46ACK8BGAs/s0/2019-07-31.png", Canal 10 ARTV
 https://5d4a00b8a0738.streamlock.net:443/8040/8040/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,El CalbucanoTV
 https://593b04c4c5670.streamlock.net/8198/8198/chunklist_w642392268.m3u8
+
+#EXTINF:-1 tvg-id="79747" tvg-name="Canal 5 Puerto Montt" tvg-logo="https://yt3.ggpht.com/a/AGF-l7_uiklNu1RHqNFU1pCLPC7cG9wviS8DebxWug=s288-c-k-c0xffffffff-no-rj-mo", Canal 5 Puerto Montt
+https://srv2.zcast.com.br/canal5tv/canal5tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="79765" tvg-name="Decima TV" tvg-logo="https://lh3.googleusercontent.com/-3q8oUK7uUUo/XbCzDBxA1OI/AAAAAAAArlU/FPIAOQc92_kSKByiVYmSU0USaROnneutgCK8BGAsYHg/s0/2019-10-23.png", Decima TV
+http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-h8o2u7q5Uy0/XbC17VIqwsI/AAAAAAAArmI/K43pwbbfr8kOdMyWd5JqIA14olHsldGfwCK8BGAsYHg/s0/2019-10-23.png",   Canal 2 Quellón 
 http://wow2.cl.digitalproserver.com/tvquellon/tvquellonvivo/tvquellon.smil/playlist.m3u8?PlaylistM3UCL
