@@ -10,20 +10,8 @@ https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="81741" tvg-name="TV Chile" tvg-logo="https://lh3.googleusercontent.com/-tUAc1plWtjg/Xa0CQyx4E_I/AAAAAAAArgs/ET8I9WYNPSA3R5FoRn54Ok6IGA9-5ItaACK8BGAsYHg/s0/2019-10-20.png", TV Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN
-https://us-b4-p-e-by2.cdn.mdstrm.com/live-stream-dai/0b82d80cdd2b4e99921e7a7ec9581c45/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/55cdd19f-c482-4b27-821d-cd171622d3a5/2.m3u8?uid=rjyem8kFadCdQL6sxmvHYU68pJ3PqphF&sid=uwG7HPtyQsQfdNTKnaHJml63MA1syF0e&pid=2zhbILHH5jdoKtSphvRdh3bhHK2iDHsq&ref=https%3A%2F%2Ftoken.tvn.cl%2F%3Furl%3D57a498c4d7b86d600e5461cb%26ads%3Dtrue%26imagen%3D%252F%252Fstrm.tvn.cl%252Fimg%252Flogo_tvn.png%26autostart%3Dtrue%26volume%3D100%26adsvolume%3D100%26html5%3Dtrue%26relacionados%3D0%26controls%3Dtrue%26custom_pre%3D%26tk%3D%26mediastream%3Dfalse%26DFP_Pre%3Dhttps%253A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%253Fsz%253D640x480%2526iu%253D%2F317342475%2Ftvn_envivo_prerroll%2526impl%253Ds%2526gdfp_req%253D1%2526env%253Dvp%2526output%253Dxml_vast3%2526unviewed_position_start%253D1%2526url%253D%255Breferrer%255D%2526description_url%253D%255Bpage-url%255D%2526correlator%253D%255Btimestamp%255D%26DFP_Ov%3Dhttps%253A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%253Fsz%253D640x480%2526iu%253D%2F317342475%2Ftvn_envivo_overlay%2526impl%253Ds%2526gdfp_req%253D1%2526env%253Dvp%2526output%253Dxml_vast3%2526unviewed_position_start%253D1%2526url%253D%255Breferrer_url%255D%2526description_url%253D%255Bdescription_url%255D%2526correlator%253D%255Btimestamp%255D&dnt=true&access_token=LI5cKpJ7I6wSh7ekMJjknspOHxVsiw5tV1RNAyrQDTdJr5hClv5f25Kx6FajV4gVjslLQGXfsz5&es=cl-a2-i-e-cl1.cdn.mdstrm.com&ote=1593922179351&ot=A1L5gGcNiZNWkEK0TAc93w&proto=https&pz=cl
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-8bGAVjbmdQo/Xlxxov1VBvI/AAAAAAAAwhU/ZO0JPjy4MaI7lGElqofGQbkOr52Hk1nUQCK8BGAsYHg/s0/2020-03-01.png",  CHV
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-lTPRVsTnfaY/XlMLxy_VhII/AAAAAAAAwZs/TNUiwtX3VEEFdP26RGGtfie-M7AI01XMgCK8BGAsYHg/s0/2020-02-23.png", Canal 13
-
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-FwfPdIwD8xY/Xeu4hqeN8qI/AAAAAAAAuOw/58iAWVDX8jUymVabkx325XF_TKrk-cY6QCK8BGAsYHg/s512/2019-12-07.jpg", CNN Chile
-
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-McxFICDN8qI/XNoLBPqtDxI/AAAAAAAAodw/hVi_SG4nkwwFSSFjsWFJtItPFRNn8cy4gCK8BGAs/s0/2019-05-13.png", Meganoticias
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
@@ -32,11 +20,6 @@ https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3
 https://t13-movil-live.cdn.nedmedia.io/index.m3u8?PlaylistM3UCL
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/1200px-DM_LOGO_RGB.svg.png" group-title="Latinos",Discovery Max
-http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
 #EXTINF:-1 tvg-id="97666" tvg-name="Canal Latino 54" tvg-logo="https://lh3.googleusercontent.com/-gBbkRnIisag/XmPPRUnANTI/AAAAAAAAwpc/01jp-ZrMDeYwbf4ahDeKu7kayyMQ_VuUgCK8BGAsYHg/s0/2020-03-07.png", Canal Latino 54
 http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
@@ -65,23 +48,11 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://revistacorrientes.com/wp-content/uploads/2015/09/2vwy3yo-RCN-Televisi%C3%B3n.png" group-title="COLOMBIA", RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 
-#EXTINF:-1,TV Caracol
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VPxJjwNBStc/Xbw7JJIYWPI/AAAAAAAAolc/PjFs2XIGsIYShzw_d8tTjQy12pchHkeVwCLcBGAsYHQ/s200/Caribe%2BTeve%252C%2B%2BLa%2BVega%2B%2528RD%2529.png" group-title="Latinos",Caribe Teve (RD)
 http://caribeteve.ddns.net:1935/caribeteve/caribeteve/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/hispantv.png" group-title="Latinos",HispanTV (Irán)
-https://live.hispantv.com/live/smil:live.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ENtRDds.png" group-title="USA",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ocro6qo.png" group-title="USA",AMG TV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="98871" tvg-name="EvaStream" tvg-logo="https://lh3.googleusercontent.com/-Ot7RKJCVk3w/Xm9kpmKM-OI/AAAAAAAAw8k/C2Wr3qyR7vIyzzZ9a6NlnShVimqoz2x3wCK8BGAsYHg/s0/2020-03-16.png", EvaStream
+https://5e9199339b303.streamlock.net:8100/bajocero/bajocero/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
 https://59dc4c699f574.streamlock.net:443/wowtv/wowtv/playlist.m3u8?PlaylistM3UCL
@@ -90,15 +61,6 @@ https://59dc4c699f574.streamlock.net:443/wowtv/wowtv/playlist.m3u8?PlaylistM3UCL
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="98871" tvg-name="EvaStream" tvg-logo="https://lh3.googleusercontent.com/-Ot7RKJCVk3w/Xm9kpmKM-OI/AAAAAAAAw8k/C2Wr3qyR7vIyzzZ9a6NlnShVimqoz2x3wCK8BGAsYHg/s0/2020-03-16.png", EvaStream
-https://5e9199339b303.streamlock.net:8100/bajocero/bajocero/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="103795" tvg-name="CEAC TV" tvg-logo="https://lh3.googleusercontent.com/-3zxAz6AAT3s/XnJsVqusKAI/AAAAAAAAxAY/v6dUPsBWkLwEtBnQZrIV4n3xc5nHEiNLgCK8BGAsYHg/s0/2020-03-18.png", CEAC TV
-https://videostreaming.cloudserver.cl:443/canalceactvstgo/canalceactvstgo/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="PeliculasTV",Zee mundo
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CINE%2B_-_LOGO.png/800px-CINE%2B_-_LOGO.png" group-title=".RD", Cineplus
 http://gmsiptv.ddns.net:8080/hls/cineplus.m3u8
@@ -110,19 +72,11 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 
 
-
-
-#EXTINF:-1 ,M2O TV 
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/09y8PS0.png" group-title="Canales Chilenos", TVR | HD
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvu.cl/_templates/desktop/includes/img/main-logo.png", TVU
 https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,Travel TV HD 
-http://194.179.53.124:1935/live/traveltv/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-logo="https://canalonce.mx/generales/wp-content/uploads/2019/04/logo_sobre_canal_once.png" group-title="México",Once Internacional (México)
 https://live2.canaloncelive.tv/livepkgr2/internacional.smil/chunklist_w1432222924_b1000000_slesp.m3u8
@@ -241,9 +195,6 @@ http://str81.creacast.com:80/iltv/high/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="FRANCE",La Chaine Normande
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W1Vg3yP.png" group-title="FRANCE",MyComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="FRANCE",RT France
 http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
