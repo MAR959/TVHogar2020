@@ -1,10 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,TELEMAS
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?WebM3UCL
 
-
-#EXTINF:-1 tvg-id="103801" tvg-name="Telecanal Talca" tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png", Telecanal Talca
+#EXTINF:-1 tvg-id="103801" tvg-name="Telecanal Talca" tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png",Telecanal Talca
 https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="45126" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN
@@ -96,13 +93,13 @@ https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="104433" tvg-name="Telered" tvg-logo="https://lh3.googleusercontent.com/-NCv13SGaRQE/XtRgHXHBOVI/AAAAAAAA1VM/pv6D0L7XqWE_PqRQ4p47m9yUBtMm3mlvACK8BGAsYHg/s0/2020-05-31.png", Telered
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="108007" tvg-name="tevex" tvg-logo="https://lh3.googleusercontent.com/-Eh0WWCMtr9M/Xxy_cE4HLOI/AAAAAAAA3WQ/5W01vsrDvjUO6IWL55sx1nyZRUSbpUjWQCK8BGAsYHg/s0/2020-07-25.png", tevex
+#EXTINF:-1 tvg-id="108007" tvg-name="tevex" tvg-logo="https://lh3.googleusercontent.com/-Eh0WWCMtr9M/Xxy_cE4HLOI/AAAAAAAA3WQ/5W01vsrDvjUO6IWL55sx1nyZRUSbpUjWQCK8BGAsYHg/s0/2020-07-25.png", TEVEX
 https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://revistacorrientes.com/wp-content/uploads/2015/09/2vwy3yo-RCN-Televisi%C3%B3n.png" group-title="COLOMBIA", RCN
 https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VPxJjwNBStc/Xbw7JJIYWPI/AAAAAAAAolc/PjFs2XIGsIYShzw_d8tTjQy12pchHkeVwCLcBGAsYHQ/s200/Caribe%2BTeve%252C%2B%2BLa%2BVega%2B%2528RD%2529.png" group-title="Latinos",Caribe Teve (RD)
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VPxJjwNBStc/Xbw7JJIYWPI/AAAAAAAAolc/PjFs2XIGsIYShzw_d8tTjQy12pchHkeVwCLcBGAsYHQ/s200/Caribe%2BTeve%252C%2B%2BLa%2BVega%2B%2528RD%2529.png" group-title="Latinos",Caribe Teve(RD)
 http://caribeteve.ddns.net:1935/caribeteve/caribeteve/playlist.m3u8
 
 
