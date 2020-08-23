@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,
-https://cl-canal13-canal13-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/cl-canal13-canal13/5bd298be-e11e-4c02-b601-5f5d52beeee2/4.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4MjM3NzIyLCJzZXNzaW9uIjoiMTc5LjU2LjE3NS45MyIsIndoaXRlbGlzdCI6WyIxNzkuNTYuMTc1LjkzIl0sIm1heEJpdHJhdGUiOiIyMzAwMDAwIn0sInNpZ25hdHVyZSI6IjVmNzAyZmNmNmEzYmM0Y2EwZTc0MTQ0NGNkY2FmYTk3OTA0OWIyM2UifQ%3D%3D
+https://cl-canal13-canal13-live.ned.media/v1/manifest/0194020089891d5a55b710bf160fa48239104953/cl-canal13-canal13/5bd298be-e11e-4c02-b601-5f5d52beeee2/4.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk4MjM3NzIyLCJzZXNzaW9uIjoiMTc5LjU2LjE3NS45MyIsIndoaXRlbGlzdCI6WyIxNzkuNTYuMTc1LjkzIl0sIm1heEJpdHJhdGUiOiIyMzAwMDAwIn0sInNpZ25hdHVyZSI6IjVmNzAyZmNmNmEzYmM0Y2EwZTc0MTQ0NGNkY2FmYTk3OTA0OWIyM2UifQ%3D%3D.m3u8
 
 
 #EXTINF:-1 tvg-id="103801" tvg-name="Telecanal Talca" tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png", Telecanal Talca
@@ -79,7 +79,7 @@ http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uSEbJ_o0QlY/Wn9mgCZRMnI/AAAAAAAAgww/FemZGM5N_GQI7T4IgYhq3zTDPbhl_tfpQCK8BGAs/s302/2018-02-10.png",   ITV Patagonia 
 https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PIGUINO TV HD www.m3ugratis.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PIGUINO TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/74165_Bio_Bio_TV.png", Bio Bio TV
