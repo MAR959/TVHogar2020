@@ -133,22 +133,6 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
 
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MUSICA:Radio Italia Vision
-http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Hits
-https://www.djing.com/tv/hits.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Karaoke
-https://www.djing.com/tv/karaoke.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H8XOrGL.png" group-title="FRANCE",DJing Live
-https://www.djing.com/tv/live.m3u8
-
-#EXTINF:-1 tvg-id="101700" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png", Rewind TV
-https://5cf4a2c2512a2.streamlock.net:443/rewintv/rewintv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CcQlQ7U7EVI/XbIqQWbGCBI/AAAAAAAArpQ/CyEn-4Mk9xEHuDVVhDBB-vQumKMTSkrUwCK8BGAsYHg/s0/2019-10-24.png", France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 
@@ -192,26 +176,14 @@ http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="FRANCE",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hGEcXbk.png" group-title="FRANCE",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tK5ZiIU.png" group-title="FRANCE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rKaqWo5.png" group-title="FRANCE",Ere TV
-http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sdF6uxL.png" group-title="FRANCE",Espace Francophone
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCE",France 24
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="FRANCE",La Chaine Normande
