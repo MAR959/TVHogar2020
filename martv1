@@ -9,26 +9,17 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="45126" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="103801" tvg-name="Telecanal Talca" tvg-logo="https://lh3.googleusercontent.com/-G00IurB2EiU/XsdJC7RaGJI/AAAAAAAA1D0/b3IywEyDKrgsPzT18tf6cIyKu7N2FhgbACK8BGAsYHg/s0/2020-05-21.png",Telecanal Talca
-https://unlimited1-cl.dps.live/tctc/tctc.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="45129" tvg-name="TV+" tvg-logo="https://lh3.googleusercontent.com/-OyqOBTEx-1E/XyA3AZwIgTI/AAAAAAAA3jQ/aDMZaLOx3mQuXBqjDKAF0X7dxExKFzawACK8BGAsYHg/s0/2020-07-28.png", TV+
 https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-s2F77tITdTc/Xndeb0SmfQI/AAAAAAAAxEM/uY-UEbKGHpgvOXK9CyrLOpXHu6GrPsXfQCK8BGAsYHg/s0/2020-03-22.png", UCV 3
 https://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://resource.t13.cl/img/t13-movil-b.png",  T13 Móvil
-https://t13-movil-live.cdn.nedmedia.io/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-McxFICDN8qI/XNoLBPqtDxI/AAAAAAAAodw/hVi_SG4nkwwFSSFjsWFJtItPFRNn8cy4gCK8BGAs/s0/2019-05-13.png", Meganoticias
 https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="102477" tvg-name="Extrema TV" tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png", Extrema TV
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BfAOGODBZEc/Xjtifr8ZrYI/AAAAAAAAvr0/nK_E67xjC9gwzgwb_zMBrzS-RAGAAy0DQCK8BGAsYHg/s0/2020-02-05.png", Rec Online
 https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
@@ -42,25 +33,16 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="" group-title="PeliculasTV",ACS Network
 https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="98981" tvg-name="ClickTv" tvg-logo="https://lh3.googleusercontent.com/-0tmtb8Flbcg/XmJcmbcB-4I/AAAAAAAAwnM/Br1f1IIzlRYXm39HwrzXBU3SmMHktsgqQCK8BGAsYHg/s0/2020-03-06.png", ClickTv
-http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
-
-
-
 #EXTINF:-1 tvg-id="45148" tvg-name="Contivisión" tvg-logo="https://lh3.googleusercontent.com/-wWvPNIeSDSw/Wn9lX-H2FWI/AAAAAAAAgwc/SsfCyM-wBWgDBxA5lU2NNkOOKUCfw_oiQCK8BGAs/s240/2018-02-10.png", Contivisión
 https://unlimited2-cl.dps.live/contivision/contivision.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="97666" tvg-name="Canal Latino 54" tvg-logo="https://lh3.googleusercontent.com/-gBbkRnIisag/XmPPRUnANTI/AAAAAAAAwpc/01jp-ZrMDeYwbf4ahDeKu7kayyMQ_VuUgCK8BGAsYHg/s0/2020-03-07.png", Canal Latino 54
 http://190.3.169.119:8080/latina/latina/playlist.m3u8?PlaylistM3UCL
 
-
-#EXTINF:-1 tvg-id="109683" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png", El Chavo TV
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="104452" tvg-name="CSTV" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", CSTV
+#EXTINF:-1 tvg-id="104452" tvg-name="simpsons" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", CSTV
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 
 
@@ -78,9 +60,6 @@ https://v2.tustreaming.cl/chiloered/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="97675" tvg-name="Osorno TV+" tvg-logo="https://lh3.googleusercontent.com/-tFNIzbzaa-w/XxzI1GfAaZI/AAAAAAAA3YM/9QCPBTiAp7E6V8u9cSZAyt0IdlWbexo2wCK8BGAsYHg/s0/2020-07-25.png", Osorno TV+
 https://593b04c4c5670.streamlock.net/8108/8108/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,El CalbucanoTV
-https://593b04c4c5670.streamlock.net/8198/8198/chunklist_w642392268.m3u8
-
 #EXTINF:-1 tvg-id="45151" tvg-name="T-Vinet" tvg-logo="https://lh3.googleusercontent.com/-EtM2JBuVazM/XxzIhLJW5PI/AAAAAAAA3YE/zmlykaL06y4tNI5JbuLPm-I1BSYsWCZYACK8BGAsYHg/s0/2020-07-25.png", T-Vinet
 http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -95,9 +74,6 @@ http://unlimited10-cl.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-uSEbJ_o0QlY/Wn9mgCZRMnI/AAAAAAAAgww/FemZGM5N_GQI7T4IgYhq3zTDPbhl_tfpQCK8BGAs/s302/2018-02-10.png",   ITV Patagonia 
 https://unlimited2-cl.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PINGUINO TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/09y8PS0.png" group-title="Canales Chilenos", TVR | HD
 https://unlimited4-cl.dps.live/tvr/tvr.smil/playlist.m3u8
@@ -117,17 +93,10 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="108007" tvg-name="tevex" tvg-logo="https://lh3.googleusercontent.com/-Eh0WWCMtr9M/Xxy_cE4HLOI/AAAAAAAA3WQ/5W01vsrDvjUO6IWL55sx1nyZRUSbpUjWQCK8BGAsYHg/s0/2020-07-25.png", TEVEX
 https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://revistacorrientes.com/wp-content/uploads/2015/09/2vwy3yo-RCN-Televisi%C3%B3n.png" group-title="COLOMBIA", RCN
-https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VPxJjwNBStc/Xbw7JJIYWPI/AAAAAAAAolc/PjFs2XIGsIYShzw_d8tTjQy12pchHkeVwCLcBGAsYHQ/s200/Caribe%2BTeve%252C%2B%2BLa%2BVega%2B%2528RD%2529.png" group-title="Latinos",Caribe Teve(RD)
 http://caribeteve.ddns.net:1935/caribeteve/caribeteve/playlist.m3u8
 
 
-
-
-#EXTINF:-1 radio="true" tvg-logo="https://canalonce.mx/generales/wp-content/uploads/2019/04/logo_sobre_canal_once.png" group-title="México",Once Internacional (México)
-https://live2.canaloncelive.tv/livepkgr2/internacional.smil/chunklist_w1432222924_b1000000_slesp.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagenesnoticias.canalrcn.com/ImgNoticias/styles/530xauto/s3/noticias/ntn24.jpg" group-title="Latinos",NTN24 (Colombia)
 https://rcnhd.cdn.net.co/live04/ntn24_480p.m3u8
